@@ -9,3 +9,5 @@ Creating a tagging system in rails http://www.sitepoint.com/tagging-scratch-rail
 
 
 Trying to figure out this commit.
+
+http://www.PlanningPoker.com is the site
