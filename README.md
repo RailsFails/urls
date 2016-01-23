@@ -10,5 +10,5 @@ Creating a tagging system in rails http://www.sitepoint.com/tagging-scratch-rail
 
 Trying to figure out this commit.
 
-http://www.PlanningPoker.com is the site
-https://www.planningpoker.com/play/game/pZlkPlTj 
+This is the new link for our first sprint.We will add to the stories as well as plan estimates as we go.
+https://www.planningpoker.com/play/game/wPl7BVEM
