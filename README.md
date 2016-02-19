@@ -13,5 +13,6 @@ Trying to figure out this commit.
 This is the new link for our first sprint.We will add to the stories as well as plan estimates as we go.
 https://www.planningpoker.com/play/game/wPl7BVEM
 -------------
-http://www.templatemo.com/live/templatemo_371_gallery
-https://shapebootstrap.net/items/category/html-templates/10-landing-pages
+* http://www.templatemo.com/live/templatemo_371_gallery
+* https://shapebootstrap.net/items/category/html-templates/10-landing-pages
+* [tips for writing a good commit message](https://robots.thoughtbot.com/5-useful-tips-for-a-better-commit-message)
